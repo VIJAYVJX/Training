@@ -53,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/VIJAYVJX/Training/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/VIJAYVJX/Training/tree/master/0367-valid-perfect-square) |
+## Array
+|  |
+| ------- |
+| [0932-monotonic-array](https://github.com/VIJAYVJX/Training/tree/master/0932-monotonic-array) |
 <!---LeetCode Topics End-->
