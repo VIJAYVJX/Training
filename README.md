@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/VIJAYVJX/Training/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/VIJAYVJX/Training/tree/master/0043-multiply-strings) |
+| [0125-valid-palindrome](https://github.com/VIJAYVJX/Training/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/VIJAYVJX/Training/tree/master/0344-reverse-string) |
 ## Simulation
 |  |
@@ -62,5 +63,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/VIJAYVJX/Training/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/VIJAYVJX/Training/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
