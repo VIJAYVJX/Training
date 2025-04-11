@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/VIJAYVJX/Training/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/VIJAYVJX/Training/tree/master/0043-multiply-strings) |
+| [0344-reverse-string](https://github.com/VIJAYVJX/Training/tree/master/0344-reverse-string) |
 ## Simulation
 |  |
 | ------- |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0932-monotonic-array](https://github.com/VIJAYVJX/Training/tree/master/0932-monotonic-array) |
 | [0978-valid-mountain-array](https://github.com/VIJAYVJX/Training/tree/master/0978-valid-mountain-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/VIJAYVJX/Training/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
