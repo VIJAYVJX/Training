@@ -58,12 +58,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/VIJAYVJX/Training/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0932-monotonic-array](https://github.com/VIJAYVJX/Training/tree/master/0932-monotonic-array) |
 | [0978-valid-mountain-array](https://github.com/VIJAYVJX/Training/tree/master/0978-valid-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/VIJAYVJX/Training/tree/master/1019-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/VIJAYVJX/Training/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/VIJAYVJX/Training/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/VIJAYVJX/Training/tree/master/0344-reverse-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/VIJAYVJX/Training/tree/master/1019-squares-of-a-sorted-array) |
