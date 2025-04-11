@@ -16,7 +16,7 @@ class Solution {
                 }
                 if (count == 1) {
                     list.add(nums1[i]);
-                    System.out.println(nums1[i]);
+            
             }
 
         }
