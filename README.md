@@ -51,15 +51,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/VIJAYVJX/Training/tree/master/0013-roman-to-integer) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/VIJAYVJX/Training/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/VIJAYVJX/Training/tree/master/0069-sqrtx) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/VIJAYVJX/Training/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/VIJAYVJX/Training/tree/master/0367-valid-perfect-square) |
 ## Array
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VIJAYVJX/Training/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/VIJAYVJX/Training/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0932-monotonic-array](https://github.com/VIJAYVJX/Training/tree/master/0932-monotonic-array) |
 | [0978-valid-mountain-array](https://github.com/VIJAYVJX/Training/tree/master/0978-valid-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/VIJAYVJX/Training/tree/master/1019-squares-of-a-sorted-array) |
@@ -69,10 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VIJAYVJX/Training/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/VIJAYVJX/Training/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/VIJAYVJX/Training/tree/master/0344-reverse-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/VIJAYVJX/Training/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/VIJAYVJX/Training/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/VIJAYVJX/Training/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/VIJAYVJX/Training/tree/master/1019-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
