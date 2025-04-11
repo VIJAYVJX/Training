@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/VIJAYVJX/Training/tree/master/0029-divide-two-integers) |
+| [0191-number-of-1-bits](https://github.com/VIJAYVJX/Training/tree/master/0191-number-of-1-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/VIJAYVJX/Training/tree/master/1019-squares-of-a-sorted-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/VIJAYVJX/Training/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
